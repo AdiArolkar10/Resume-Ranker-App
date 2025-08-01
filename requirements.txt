@@ -7,4 +7,4 @@ Install Dependencies:
 pip install streamlit pymupdf scikit-learn pandas
 
 To Run the App in StreamLit:
-streamlit run resume_ranker.py
+streamlit run resumeranker.py
